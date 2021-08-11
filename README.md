@@ -1,6 +1,11 @@
-### Hi there 👋
-- 🌱 I’m currently learning Java Development
+<h1 align="left">Hi there! 👋</h1>
 
+<h4 align="left">· 🌱 I’m currently learning Java Development</h4>
+<h4 align="left">· Find me here:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/raul-crespo" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="raul-crespo" height="40" width="40" /></a>
+<a href="https://instagram.com/raullcrespo" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="raullcrespo" height="40" width="40" /></a>
+</p>
 <!--
 **crespo/crespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
