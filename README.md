@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:raulcrespo96@gmail.com)](mailto:raulcrespo96@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/raullcrespo/)](https://instagram.com/raullcrespo/)
   
-<h4 align="left">· 👨‍💻 Some technologies that I had some experience: </h4>
+<h4 align="left">· 👨‍💻 Some technologies that I had some experience with: </h4>
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/crespo/password_generator)](https://github.com/crespo/password_generator)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)](https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)
