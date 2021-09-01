@@ -1,6 +1,7 @@
 <h1 align="left">Hi there! 👋</h1>
 
-<h4 align="left">· 🌱 I’m currently learning Java Development</h4>
+<h4 align="left">· 🧨 I’m currently learning Java Development</h4>
+<h4 align="left">· 🎈 I’m also learning chatbot making process using Dialogflow and some JavaScript stuff</h4>
 <h4 align="left">· 📫 Reach me here:</h4>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/crespo)](https://github.com/crespo)
@@ -16,20 +17,3 @@
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&link=https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)](https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)
 [![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://glitch.com/edit/#!/cyber-educated-age)](https://glitch.com/edit/#!/cyber-educated-age)
 [![DialogFlow Badge](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https://glitch.com/edit/#!/cyber-educated-age)](https://glitch.com/edit/#!/cyber-educated-age)
-
-
-
-<!--
-**crespo/crespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
