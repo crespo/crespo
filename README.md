@@ -14,8 +14,8 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)](https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://snipsave.com/user/crespo/snippet/z814n424l8m6QyKmxr/)](https://snipsave.com/user/crespo/snippet/z814n424l8m6QyKmxr/)
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&link=https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)](https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)
-[![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://glitch.com/edit/#!/nova-scythe-resonance?path=server.js%3A1%3A0)](https://glitch.com/edit/#!/nova-scythe-resonance?path=server.js%3A1%3A0)
-[![DialogFlow Badge](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https://glitch.com/edit/#!/nova-scythe-resonance?path=server.js%3A1%3A0)](https://glitch.com/edit/#!/nova-scythe-resonance?path=server.js%3A1%3A0)
+[![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://glitch.com/edit/#!/cyber-educated-age)](https://glitch.com/edit/#!/cyber-educated-age)
+[![DialogFlow Badge](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https://glitch.com/edit/#!/cyber-educated-age)](https://glitch.com/edit/#!/cyber-educated-age)
 
 
 
