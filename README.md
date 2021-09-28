@@ -16,3 +16,5 @@
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&link=https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)](https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)
 [![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/crespo/veve-chatbot)](https://github.com/crespo/veve-chatbot)
 [![DialogFlow Badge](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white&link=https://github.com/crespo/veve-chatbot)](https://github.com/crespo/veve-chatbot)
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/crespo/personalSite)](https://github.com/crespo/personalSite)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/crespo/personalSite)](https://github.com/crespo/personalSite)
