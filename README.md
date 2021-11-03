@@ -10,7 +10,7 @@
   
 <h4 align="left">· 👨‍💻 Some technologies that I have some experience with: </h4>
 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/crespo/password_generator)](https://github.com/crespo/password_generator)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/lauannecsilva/libersoftt)](https://github.com/lauannecsilva/libersoftt)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)](https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https://snipsave.com/user/crespo/snippet/z814n424l8m6QyKmxr/)](https://snipsave.com/user/crespo/snippet/z814n424l8m6QyKmxr/)
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&link=https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)](https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)
