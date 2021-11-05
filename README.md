@@ -3,7 +3,7 @@
 <h4 align="left">· 🌱 I’m currently learning Java Development</h4>
 <h4 align="left">· 📫 Reach me here:</h4>
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/crespo)](https://github.com/crespo)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/crespo)](https://github.com/crespo)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raul-crespo/)](https://www.linkedin.com/in/raul-crespo/)
 [![Email Badge](https://img.shields.io/badge/Email-7F0C9C?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:raul@raulcrespo.tech)](mailto:raul@raulcrespo.tech)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/raullcrespo/)](https://instagram.com/raullcrespo/)
