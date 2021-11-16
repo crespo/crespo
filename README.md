@@ -1,6 +1,6 @@
 <h1 align="left">Hi there! 👋</h1>
 
-<h4 align="left">· 🌱 I’m currently learning Java Development</h4>
+<h4 align="left">· 🌱 I’m currently learning Java Web Development</h4>
 <h4 align="left">· 📫 Reach me here:</h4>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/crespo)](https://github.com/crespo)
