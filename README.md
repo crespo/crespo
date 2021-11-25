@@ -19,3 +19,11 @@
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/crespo/personalSite)](https://github.com/crespo/personalSite)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)](https://snipsave.com/user/crespo/snippet/lMsA77DqmbXEQ3VTZT/)
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&link=https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)](https://snipsave.com/user/crespo/snippet/TiL1YzC2oTQpWUCQsl/)
+
+<h4 align="left">· 📈 Stats: </h4>
+
+<div align="center">
+  <a href="https://github.com/crespo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crespo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crespo&layout=compact&langs_count=7&theme=dark"/>
+</div>
