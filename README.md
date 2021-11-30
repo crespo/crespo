@@ -1,6 +1,6 @@
 <h1 align="left">Hi there! 👋</h1>
 
-<h4 align="left">· 🌱 Currently looking for my first job 👀</h4>
+<h4 align="left">· 👀 Currently looking for my first job</h4>
 <h4 align="left">· 🗣 Ask me about Java, Spring Boot and Problem Solving!
 <h4 align="left">· 📫 Reach me here:</h4>
 
