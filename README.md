@@ -1,6 +1,8 @@
 <h1 align="left">Hi there! 👋</h1>
 
-<h4 align="left">· 🗣 Ask me about Java, Problem Solving or really anything!
+<h4 align="left">· 🗣 Ask me about Java, Problem Solving or really anything!</h4>
+
+<h4 align="left">· 👨‍💻 Working as a back-end developer @ [Locus Custom Software](https://locus.software/)</h4>
   
 <h4 align="left">· 📫 Reach me here:</h4>
 
