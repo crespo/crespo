@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-- 🗣 Ask me about Java, Problem Solving or really anything!
-
 - 👨‍💻 Working as a back-end developer @ [Locus Custom Software](https://locus.software/)
   
 - 📫 Reach me here:
