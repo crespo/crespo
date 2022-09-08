@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 👨‍💻 Working as a back-end developer @ [Locus Custom Software](https://locus.software/)
+- 👨‍💻 Working as a iOS developer @ [Zup](https://zup.com.br/)
   
 - 📫 Reach me here:
 
