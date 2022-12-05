@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 👨‍💻 Working as a iOS developer @ [Zup](https://zup.com.br/)
+- 👨‍💻 Looking 4 job! <3
   
 - 📫 Reach me here:
 
