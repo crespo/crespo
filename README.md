@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 👨‍💻 Looking 4 job! <3
+- 👨‍💻 Civil Engineering student :)
   
 - 📫 Reach me here:
 
