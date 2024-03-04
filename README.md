@@ -1,6 +1,6 @@
 ### Hi there! 👋
 #### I'm a Software Developer, currently studying a Bachelor's degree in Information Systems 👨‍💻👾
-Some places that you can find me:
+### Some places that you can find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulxcrespo/)
 [![Email Badge](https://img.shields.io/badge/Email-7F0C9C?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:oi@raulcrespo.com)](mailto:oi@raulcrespo.com)
