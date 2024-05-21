@@ -8,7 +8,9 @@
 
 <div>
   <a href="https://github.com/crespo/">
-    <img height="240vh" src="https://github-readme-stats.vercel.app/api?username=crespo&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=neon"/>
-    <img height="240vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crespo&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&theme=neon"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=crespo&theme=neon"/>
+  </a>
+  <a href="https://github.com/crespo/">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crespo&layout=compact&langs_count=8&card_width=320&theme=neon"/>
   </a>
 </div>
