@@ -6,11 +6,4 @@
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/17040737/raul-crespo)](https://stackoverflow.com/users/17040737/raul-crespo)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/crespo)](https://dev.to/crespo)
 
-<div>
-  <a href="https://github.com/crespo/">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=crespo&theme=neon"/>
-  </a>
-  <a href="https://github.com/crespo/">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crespo&layout=compact&langs_count=8&card_width=320&theme=neon"/>
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=crespo&theme=matrix&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
